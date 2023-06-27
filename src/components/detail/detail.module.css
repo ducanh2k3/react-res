@@ -1,0 +1,6 @@
+.item_container {
+  display: flex;
+}
+.text {
+  width: 100%;
+}
